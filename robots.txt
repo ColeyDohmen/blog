@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://coleydohmen.github.io/blogsitemap.xml
